@@ -1,0 +1,1 @@
+Simulasi yang menggambarkan input sensor PIR yang kemudian diolah untuk mengendalikan deteksi terhadap objek kemudian hasil deteksinya ditampilkan dalam bentuk output LED, suara alarm, dan display pada virtual terminal sebagai notifikasinya.
